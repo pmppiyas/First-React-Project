@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.myAbout {
+  border: 2px solid greenyellow;
+  padding: 20px 20px;
+  border-radius: 10px;
+  background-color: aqua;
+}
+
+.frAbout {
+  border: 2px solid black;
+  padding: 15px 15px;
+  border-radius: 20px;
+  background: burlywood;
+}
+
+.h2 {
+  border: 2px solid black;
+  text-align: start;
+}
